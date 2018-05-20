@@ -1,0 +1,31 @@
+{
+  "name": "restful-blog",
+  "version": "1.0.0",
+  "description": "RESTful routes exercise and introducing Semantic Ui ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CarlasHub/RESTful_site.git"
+  },
+  "keywords": [
+    "semantic",
+    "ui",
+    "RESTful",
+    "routes",
+    "CRUD",
+    "Blog"
+  ],
+  "author": "Carla Goncalves",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "method-override": "^2.3.10",
+    "mongoose": "^5.1.1",
+    "node-sass": "^4.9.0"
+  }
+}
